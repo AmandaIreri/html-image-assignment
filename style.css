@@ -1,0 +1,53 @@
+#container{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+img{
+    position: absolute left;
+    flex: left;
+    width: 50%;
+    padding-left: 20px;
+}
+b{
+    position: relative;
+
+}
+.form{
+    border: solid 1px;
+    width: 50%;
+    padding: 0 60px;
+}
+#cont{
+    display: flex;
+    align-items: center;
+}
+.input{
+    width: 50%;
+    padding: 12px 20px;
+    border: solid 2px rgb(104, 104, 250);
+    border-radius: 10px;
+}
+.button{
+    padding: 12px 200px;
+    background-color: rgb(104, 104, 250);
+    border-radius: 10px;
+
+}
+h4{
+    text-indent: 220px;
+}
+#image{
+    display:flex;
+    height: 5%;
+    justify-content: space-evenly;
+}
+.image1{
+    height: 15%;
+    width: 10%;
+}
+.image2{
+    height: 15%;
+    width: 10%;
+}
